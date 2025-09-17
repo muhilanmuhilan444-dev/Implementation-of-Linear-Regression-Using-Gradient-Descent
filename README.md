@@ -1,6 +1,6 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-## NAME:V Deepak Kumar
-## Reg.No:212224240029
+## NAME:A. Muhilan
+## Reg.No:25015918
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
